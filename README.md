@@ -25,6 +25,9 @@ This project features an interactive Power BI dashboard that analyzes Flipmartâ€
 
 ## ğŸ“¸ Preview
 <img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/3215ba30-9e17-498a-a8d4-0be5d0bf4b20" />
+<img width="1553" height="877" alt="image" src="https://github.com/user-attachments/assets/31f6d85d-fa2a-46a3-8bce-bf6c569147e1" />
+<img width="1566" height="875" alt="image" src="https://github.com/user-attachments/assets/8118f8eb-fe4b-439e-bc09-67152085c1c9" />
+
 
 
 
